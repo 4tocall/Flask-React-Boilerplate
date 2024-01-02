@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Release](https://img.shields.io/github/v/release/4tocall/Flask-React-Boilerplate)](https://github.com/4tocall/Flask-React-Boilerplate/releases/tag/V1.0.0)
 
-## Project Description:https://github.com/4tocall/Flask-React-Boilerplate/releases/tag/V1.0.0
+## Project Description:
 
 This repository provides a boilerplate for building web applications using Flask for the backend and React for the frontend. It establishes a solid foundation with modular components, allowing for easy extension and customization.
 
