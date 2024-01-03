@@ -17,8 +17,8 @@ This repository provides a boilerplate for building web applications using Flask
 
 ## 📦 Dependencies:
 
-- Flask for the backend.
-- React, Vite, and other essential packages for the frontend.
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/) for the backend.
+- [React](https://react.dev/), [Vite](https://vitejs.dev/), and other essential packages for the frontend.
 
 ## 📄 Project Structure:
 
