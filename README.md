@@ -36,3 +36,18 @@ This project is licensed under MIT License.
 ### 🌟 Contributions:
 
 Contributions and suggestions are welcome. Fork the repository, make changes, and submit a pull request.
+
+---
+
+## 🆕 Recent Updates
+
+### 2025-07-18 — Major Modernization
+
+- Backend updated to Flask 3.1.1 with improved environment variable handling.
+- Frontend upgraded to React 19 and Vite 7.0.5 for better performance and developer experience.
+- Refactored backend startup script for dynamic config loading.
+- Updated package.json scripts to run backend and frontend concurrently with fixed Python environment activation.
+- Enhanced linting setup with updated ESLint and plugins.
+- Added tooling recommendations for keeping dependencies up to date (`npm-check-updates`).
+
+---
